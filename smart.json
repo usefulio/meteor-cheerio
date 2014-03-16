@@ -1,0 +1,8 @@
+{
+  "name": "useful-cheerio",
+  "description": "Gets Cheerio into your server",
+  "homepage": "https://github.com/usefulio/meteor-cheerio",
+  "author": "Ian Serlin (https://github.com/usefulio)",
+  "version": "0.1.0",
+  "git": "https://github.com/usefulio/meteor-cheerio.git"
+}
